@@ -12,3 +12,7 @@ Useful learning resources for busy people
 ### Git
 
 * [git - the simple guide](http://rogerdudler.github.io/git-guide/): Provides quick refresher for what the most common git commands do.
+
+### Statistical analysis in Python
+
+* [Statistical Data Analysis in Python- Introductory Tutorial, SciPy 2013, 25 June 2013](https://github.com/fonnesbeck/statistical-analysis-python-tutorial)
