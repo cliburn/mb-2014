@@ -50,3 +50,8 @@ Daily exercises
 * Complete the tutorial at <http://ipython.org/ipython-doc/dev/interactive/tutorial.html>
 * Using Rmagic: Replicate the examples at <http://ipython.org/ipython-doc/dev/config/extensions/rmagic.html> in your own notebook
 * The numpy module is the foundation for all numerical and statistical coding in Python. Learn how to use numpy arrays here <http://www.sam.math.ethz.ch/~raoulb/teaching/PythonTutorial/intro_numpy.html>
+
+**May 28, 2014**: Statistical analysis in Python (may take a while)
+
+* Repeat Megan's BIOS 721 Final Project Fall 2013 using Python instead of R.
+* Clone the repository at <https://github.com/fonnesbeck/statistical-analysis-python-tutorial.git> and work through the examples. Teaches pandas, scipy.stats and statistical modeling in Python.
