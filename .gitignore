@@ -2,3 +2,5 @@
 .Rproj.user
 .ipynb_checkpoints*
 *~
+private_docs/*
+R/.*
