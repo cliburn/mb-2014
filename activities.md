@@ -55,3 +55,11 @@ Daily exercises
 
 * Repeat Megan's BIOS 721 Final Project Fall 2013 using Python instead of R.
 * Clone the repository at <https://github.com/fonnesbeck/statistical-analysis-python-tutorial.git> and work through the examples. Teaches pandas, scipy.stats and statistical modeling in Python.
+
+**Jun 20, 2014**: Bayesian analysis and graphical models in Python
+
+<https://pypi.python.org/pypi/libpgm>
+<http://daft-pgm.org/>
+<https://github.com/pymc-devs/pymc/tree/pymc3>
+<https://pystan.readthedocs.org/en/latest/>
+<http://dan.iel.fm/emcee/current/>
