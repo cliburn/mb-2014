@@ -1,0 +1,10 @@
+#### Assignment 9 Structure learning 
+```{r}
+library(bnlearn)
+data(marks)
+head(marks)
+# use Hill-Climbing algorithm 
+bn.hc=hc(marks)
+bn.hc
+plot(bn.hc)
+```
